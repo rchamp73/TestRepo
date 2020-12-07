@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\CH0728\\AppData\\Local\\Continuum\\anaconda3\\envs\\dbconnect\\python.exe", 
+	"python.venvPath": "c:\\users\\ch0728\\appdata\\local\\continuum\\anaconda3\\lib\\site-packages\\pyspark//jars",
+	"python.linting.enabled":false 
+}
